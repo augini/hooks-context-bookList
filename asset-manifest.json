@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.51fba676.chunk.css",
-    "main.js": "/my-app/static/js/main.8539ae00.chunk.js",
-    "main.js.map": "/my-app/static/js/main.8539ae00.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.5fc5d3dd.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.5fc5d3dd.js.map",
-    "static/js/2.fa1be27d.chunk.js": "/my-app/static/js/2.fa1be27d.chunk.js",
-    "static/js/2.fa1be27d.chunk.js.map": "/my-app/static/js/2.fa1be27d.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.1e0554b06750e221b280b5b9070b025d.js": "/my-app/precache-manifest.1e0554b06750e221b280b5b9070b025d.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.51fba676.chunk.css.map": "/my-app/static/css/main.51fba676.chunk.css.map",
-    "static/js/2.fa1be27d.chunk.js.LICENSE.txt": "/my-app/static/js/2.fa1be27d.chunk.js.LICENSE.txt"
+    "main.css": "/light-dark-theme-context-api/static/css/main.51fba676.chunk.css",
+    "main.js": "/light-dark-theme-context-api/static/js/main.3c9a7ef6.chunk.js",
+    "main.js.map": "/light-dark-theme-context-api/static/js/main.3c9a7ef6.chunk.js.map",
+    "runtime-main.js": "/light-dark-theme-context-api/static/js/runtime-main.98382000.js",
+    "runtime-main.js.map": "/light-dark-theme-context-api/static/js/runtime-main.98382000.js.map",
+    "static/js/2.fa1be27d.chunk.js": "/light-dark-theme-context-api/static/js/2.fa1be27d.chunk.js",
+    "static/js/2.fa1be27d.chunk.js.map": "/light-dark-theme-context-api/static/js/2.fa1be27d.chunk.js.map",
+    "index.html": "/light-dark-theme-context-api/index.html",
+    "precache-manifest.1bf20f2a4d2feb164c54484e0a8830a8.js": "/light-dark-theme-context-api/precache-manifest.1bf20f2a4d2feb164c54484e0a8830a8.js",
+    "service-worker.js": "/light-dark-theme-context-api/service-worker.js",
+    "static/css/main.51fba676.chunk.css.map": "/light-dark-theme-context-api/static/css/main.51fba676.chunk.css.map",
+    "static/js/2.fa1be27d.chunk.js.LICENSE.txt": "/light-dark-theme-context-api/static/js/2.fa1be27d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fc5d3dd.js",
+    "static/js/runtime-main.98382000.js",
     "static/js/2.fa1be27d.chunk.js",
     "static/css/main.51fba676.chunk.css",
-    "static/js/main.8539ae00.chunk.js"
+    "static/js/main.3c9a7ef6.chunk.js"
   ]
 }
